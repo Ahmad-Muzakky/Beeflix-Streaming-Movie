@@ -5,4 +5,4 @@ untuk Full file dapat di download di link berikut
 
 https://drive.google.com/file/d/1RzO2qIOEaw1MxgKNqCzJkJZ5P3-yl180/view?usp=sharing
 
-![](print screen/1.jpg) ![](print screen/2.jpg) ![](print screen/3.jpg) ![](print screen/4.jpg) ![](print screen/5.jpg)
+![](printscreen/1.jpg) ![](printscreen/2.jpg) ![](printscreen/3.jpg) ![](printscreen/4.jpg) ![](printscreen/5.jpg)
