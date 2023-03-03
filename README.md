@@ -1,5 +1,5 @@
 # Beeflix-Streaming-Movie
-Project pembuatan Website Streaming Film berbasis PHP dan HTML
+Project pembuatan Website Streaming Film berbasis PHP, Laravel dan HTML
 
 untuk Full file dapat di download di link berikut
 
